@@ -1,7 +1,7 @@
 import { createBrowserRouter } from 'react-router-dom';
 import type { RouteObject } from 'react-router-dom';
 import { Home } from './Pages/InitialPage/Index';
-import ProjectDetailsPage from './Pages/ProjectPage';
+import ProjectDetailsPage from './Pages/ProjectDetailsPage';
 
 const routes: RouteObject[] = [
   {
