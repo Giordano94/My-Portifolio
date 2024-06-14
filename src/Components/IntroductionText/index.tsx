@@ -10,10 +10,10 @@ const IntroductionText: FC = () => {
   return (
     <Container>
       <TextSectionOne>
-        <h1>Hey there, my name is</h1>
+        <h1>Hey there,</h1>
       </TextSectionOne>
       <TextSectionTwo>
-        <h2>Giordano Mendes</h2>
+        <h2>my name is Giordano Mendes</h2>
       </TextSectionTwo>
       <TextSectionThree>
         <h3>
